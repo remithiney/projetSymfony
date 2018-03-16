@@ -10,6 +10,9 @@ Comment on assemble
 # Fusion
 Comment on fusionne
 
+#SUJET 
+il est également disponible dans le git.
+
 Architecture web des SI Projet 1 - année 2018
 Gestion d'un site d'évaluation des connaissances
 Le site web d'évaluation des connaissances propose des questionnaires à des apprenants qui leur
