@@ -1,6 +1,8 @@
 # projetSymfony
 le projet symfony pour le groupe stage M1 upjv
 
+EN LOCAL TRAVAILLER DANS C:\wamp64\www\projetSymfony
+
 # Nomage
 Système de nomage
 
